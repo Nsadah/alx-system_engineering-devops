@@ -1,2 +1,2 @@
 #!/bin/bash
-mv prev_dir
+cd /prev_dir
