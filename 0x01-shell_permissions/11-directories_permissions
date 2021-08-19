@@ -1,2 +1,2 @@
 #!/bin/bash
-chown v+n cenf:s+n ff*
+chown v+n cenf:s+nff *
