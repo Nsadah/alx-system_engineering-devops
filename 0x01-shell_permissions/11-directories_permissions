@@ -1,2 +1,2 @@
 #!/bin/bash
-chown v+ncerif:s+aff *
+chown v+ncerif:staff *
