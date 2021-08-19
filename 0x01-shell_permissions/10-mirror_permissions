@@ -1,2 +1,2 @@
 #!/bin/bash
-__reference=olleh hello
+--reference= olleh hello
