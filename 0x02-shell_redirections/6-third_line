@@ -1,2 +1,2 @@
 #!/bin/bash
->awk '{if(NR==3) print $0}' file.txt
+$>head -n 3 file.txt | tail -n + 3
