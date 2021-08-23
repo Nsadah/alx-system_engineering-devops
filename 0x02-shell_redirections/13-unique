@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort --unique
+xargs -n 1| ls -l | sort --unique
