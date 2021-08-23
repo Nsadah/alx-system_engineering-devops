@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name . -o -type d -print -prune | tr -dc / | wc -c
+find . -mindepth 1 -type d | wc -l
