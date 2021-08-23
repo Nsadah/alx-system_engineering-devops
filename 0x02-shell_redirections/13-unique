@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --only-matching '*.*' | sort --unique
+grep --only-matching '.*' | sort --unique
