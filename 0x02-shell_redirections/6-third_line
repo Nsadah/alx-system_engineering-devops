@@ -1,2 +1,2 @@
 #!/bin/bash
-sed : $>sed -n 3p iacta.txt.
+>awk '{if(NR==3) print $0}' file.txt
