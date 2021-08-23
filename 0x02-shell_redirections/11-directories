@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d
+find . -name . -o -type d -print -prune | tr -dc / | wc -c
