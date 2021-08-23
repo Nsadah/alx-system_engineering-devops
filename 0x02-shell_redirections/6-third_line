@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 3p iacta. txt
+sed : $>sed -n 3p iacta.txt.
