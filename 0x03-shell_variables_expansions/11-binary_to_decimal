@@ -1,2 +1,2 @@
 #!/bin/bash
-$> toBinary *
+echo 'ibase=2 | bc 
