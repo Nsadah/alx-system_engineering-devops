@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {{a..z},{p..z}}{{a..z},{p-z}}
+echo $PATH | tr -s ':''\n' | wc -l
