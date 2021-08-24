@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {{a..z},{A..Z}}{{a..z},{A..Z}}{{a..z},{A..Z}}{{a..z},{A..Z}}{{a..z},{A..Z}}
+printf "%s\n" {{a..z}}{{a..z}}{{a..z}}{{a..z}}{{a..z}}
