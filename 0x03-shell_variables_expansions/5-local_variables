@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv local
+printenv | less local
