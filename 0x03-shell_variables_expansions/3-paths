@@ -1,2 +1,1 @@
-#!/bin/bash
-find $PATH -print | wc -l
+#!/binecho -e $PATH | wc -l
