@@ -1,2 +1,2 @@
 #!/bin/bash
-set -o posix  | less
+printenv |set -o posix
