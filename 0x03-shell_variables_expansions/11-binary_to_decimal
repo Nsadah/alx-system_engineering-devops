@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BINARY=2#$BINARY
+echo $BINARY=10#$BINARY
