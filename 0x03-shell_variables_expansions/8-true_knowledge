@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 128 = 128+'$TRUEKNOWLEDGE'
+echo a=`128 $a + $TRUEKNOWLEDGE`
