@@ -1,1 +1,2 @@
 #!/bin/bash
+sed -i 's/{A,c}/{z,e}/g'
