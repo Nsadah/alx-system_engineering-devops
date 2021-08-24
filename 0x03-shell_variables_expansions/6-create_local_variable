@@ -1,2 +1,2 @@
 #!/bin/bash
-foo () { Name="BETTY" ; Value="Holberton" }
+$ BETTY=Holberton
