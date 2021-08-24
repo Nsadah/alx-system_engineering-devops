@@ -1,1 +1,2 @@
-#!/binecho -e $PATH | wc -l
+#!/bin/bash
+echo -e $PATH | wc -l
