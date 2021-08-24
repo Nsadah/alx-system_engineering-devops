@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 10#$BINARY ))
+print "%d\n" $((16#$hexNum))
