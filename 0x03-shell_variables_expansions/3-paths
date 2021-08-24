@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `wc --lines < $PATH
+find . -type f -print | wc -l
