@@ -1,2 +1,2 @@
 #!/bin/bash
-env -i HOLBERTON=Betty
+env HOLBERTON=Betty
