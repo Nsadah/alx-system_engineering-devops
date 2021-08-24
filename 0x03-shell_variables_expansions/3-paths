@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls -l | wc -l
+echo ls -a | wc -l
