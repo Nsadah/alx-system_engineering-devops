@@ -2,9 +2,3 @@
 # kills 4-to_infinity_and_beyond process
 
 kill "$(pgrep -f "4-to_infinity_and_beyond")"
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
